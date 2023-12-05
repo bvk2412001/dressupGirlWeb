@@ -1,0 +1,20 @@
+
+body.png
+size: 276,472
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_base
+  rotate: false
+  xy: 140, 4
+  size: 134, 466
+  orig: 160, 480
+  offset: 13, 7
+  index: -1
+body_line
+  rotate: false
+  xy: 2, 2
+  size: 136, 468
+  orig: 160, 480
+  offset: 12, 6
+  index: -1

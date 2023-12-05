@@ -1,0 +1,21 @@
+{
+  "name": "dressupgirl",
+  "uuid": "7d2712db-c82c-459c-aae8-0df6931dcfca",
+  "creator": {
+    "version": "3.8.1"
+  },
+  "dependencies": {
+    "facebook-node-sdk": "^0.2.0",
+    "firebase": "^10.7.0",
+    "socket.io-client": "^4.7.2"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

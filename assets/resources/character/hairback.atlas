@@ -1,0 +1,1448 @@
+
+hairback.png
+size: 4052,2299
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blank
+  rotate: false
+  xy: 1819, 1565
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hairback/hairback-009-item
+  rotate: true
+  xy: 2808, 1550
+  size: 192, 44
+  orig: 336, 360
+  offset: 72, 187
+  index: -1
+hairback/hairback-021-item
+  rotate: true
+  xy: 640, 8
+  size: 43, 34
+  orig: 236, 420
+  offset: 165, 97
+  index: -1
+hairback/hairback-027-item
+  rotate: false
+  xy: 2057, 1568
+  size: 44, 26
+  orig: 224, 376
+  offset: 90, 311
+  index: -1
+hairback/hairback-030-item
+  rotate: true
+  xy: 2471, 1713
+  size: 174, 42
+  orig: 224, 380
+  offset: 25, 147
+  index: -1
+hairback/hairback-042-item
+  rotate: true
+  xy: 2678, 553
+  size: 84, 50
+  orig: 184, 388
+  offset: 50, 169
+  index: -1
+hairback/hairback-base/hairback-001-base
+  rotate: false
+  xy: 1206, 457
+  size: 252, 279
+  orig: 256, 288
+  offset: 2, 5
+  index: -1
+hairback/hairback-base/hairback-002-base
+  rotate: true
+  xy: 3761, 436
+  size: 144, 152
+  orig: 152, 160
+  offset: 4, 4
+  index: -1
+hairback/hairback-base/hairback-003-base
+  rotate: false
+  xy: 545, 1883
+  size: 308, 414
+  orig: 316, 420
+  offset: 4, 3
+  index: -1
+hairback/hairback-base/hairback-004-base
+  rotate: true
+  xy: 2860, 249
+  size: 186, 173
+  orig: 192, 180
+  offset: 3, 3
+  index: -1
+hairback/hairback-base/hairback-005-base
+  rotate: true
+  xy: 3022, 672
+  size: 210, 176
+  orig: 216, 184
+  offset: 3, 4
+  index: -1
+hairback/hairback-base/hairback-006-base
+  rotate: false
+  xy: 1063, 738
+  size: 252, 283
+  orig: 256, 292
+  offset: 2, 5
+  index: -1
+hairback/hairback-base/hairback-007-base
+  rotate: true
+  xy: 2860, 668
+  size: 212, 160
+  orig: 220, 168
+  offset: 4, 4
+  index: -1
+hairback/hairback-base/hairback-008-base
+  rotate: false
+  xy: 3717, 282
+  size: 152, 152
+  orig: 160, 160
+  offset: 4, 4
+  index: -1
+hairback/hairback-base/hairback-009-base
+  rotate: false
+  xy: 180, 307
+  size: 330, 351
+  orig: 336, 360
+  offset: 3, 7
+  index: -1
+hairback/hairback-base/hairback-010-base
+  rotate: true
+  xy: 2339, 765
+  size: 226, 242
+  orig: 232, 252
+  offset: 3, 5
+  index: -1
+hairback/hairback-base/hairback-011-base
+  rotate: false
+  xy: 2860, 61
+  size: 172, 186
+  orig: 180, 196
+  offset: 4, 5
+  index: -1
+hairback/hairback-base/hairback-012-base
+  rotate: false
+  xy: 482, 737
+  size: 292, 361
+  orig: 304, 372
+  offset: 6, 6
+  index: -1
+hairback/hairback-base/hairback-013-base
+  rotate: false
+  xy: 2580, 1579
+  size: 226, 163
+  orig: 232, 172
+  offset: 3, 5
+  index: -1
+hairback/hairback-base/hairback-014-base
+  rotate: true
+  xy: 3559, 365
+  size: 164, 156
+  orig: 172, 164
+  offset: 4, 4
+  index: -1
+hairback/hairback-base/hairback-015-base
+  rotate: false
+  xy: 732, 400
+  size: 216, 335
+  orig: 224, 344
+  offset: 4, 6
+  index: -1
+hairback/hairback-base/hairback-016-base
+  rotate: false
+  xy: 2608, 1070
+  size: 214, 159
+  orig: 220, 168
+  offset: 3, 5
+  index: -1
+hairback/hairback-base/hairback-017-base
+  rotate: true
+  xy: 2362, 1134
+  size: 244, 214
+  orig: 252, 220
+  offset: 4, 4
+  index: -1
+hairback/hairback-base/hairback-018-base
+  rotate: false
+  xy: 817, 1552
+  size: 248, 329
+  orig: 256, 336
+  offset: 4, 4
+  index: -1
+hairback/hairback-base/hairback-019-base
+  rotate: false
+  xy: 3035, 106
+  size: 182, 170
+  orig: 192, 176
+  offset: 5, 3
+  index: -1
+hairback/hairback-base/hairback-020-base
+  rotate: true
+  xy: 1541, 754
+  size: 252, 265
+  orig: 260, 272
+  offset: 4, 4
+  index: -1
+hairback/hairback-base/hairback-021-base
+  rotate: false
+  xy: 314, 1468
+  size: 227, 412
+  orig: 236, 420
+  offset: 5, 4
+  index: -1
+hairback/hairback-base/hairback-022-base
+  rotate: false
+  xy: 3512, 137
+  size: 144, 166
+  orig: 152, 172
+  offset: 4, 3
+  index: -1
+hairback/hairback-base/hairback-023-base
+  rotate: false
+  xy: 3119, 1912
+  size: 292, 385
+  orig: 300, 392
+  offset: 4, 4
+  index: -1
+hairback/hairback-base/hairback-024-base
+  rotate: true
+  xy: 3561, 1083
+  size: 206, 158
+  orig: 216, 164
+  offset: 5, 4
+  index: -1
+hairback/hairback-base/hairback-025-base
+  rotate: false
+  xy: 2229, 1889
+  size: 290, 408
+  orig: 316, 420
+  offset: 13, 8
+  index: -1
+hairback/hairback-base/hairback-026-base
+  rotate: false
+  xy: 1698, 128
+  size: 198, 175
+  orig: 268, 192
+  offset: 35, 3
+  index: -1
+hairback/hairback-base/hairback-027-base
+  rotate: false
+  xy: 3717, 1564
+  size: 162, 354
+  orig: 224, 376
+  offset: 28, 9
+  index: -1
+hairback/hairback-base/hairback-028-base
+  rotate: true
+  xy: 1032, 1023
+  size: 238, 284
+  orig: 248, 292
+  offset: 5, 4
+  index: -1
+hairback/hairback-base/hairback-029-base
+  rotate: false
+  xy: 3358, 17
+  size: 150, 93
+  orig: 156, 100
+  offset: 3, 4
+  index: -1
+hairback/hairback-base/hairback-030-base
+  rotate: false
+  xy: 234, 1089
+  size: 216, 372
+  orig: 224, 380
+  offset: 4, 6
+  index: -1
+hairback/hairback-base/hairback-031-base
+  rotate: false
+  xy: 1969, 1887
+  size: 258, 410
+  orig: 264, 416
+  offset: 3, 3
+  index: -1
+hairback/hairback-base/hairback-032-base
+  rotate: false
+  xy: 1347, 1275
+  size: 258, 286
+  orig: 264, 292
+  offset: 3, 4
+  index: -1
+hairback/hairback-base/hairback-033-base
+  rotate: true
+  xy: 676, 166
+  size: 228, 272
+  orig: 256, 288
+  offset: 14, 7
+  index: -1
+hairback/hairback-base/hairback-034-base
+  rotate: false
+  xy: 1617, 1008
+  size: 217, 267
+  orig: 256, 288
+  offset: 20, 13
+  index: -1
+hairback/hairback-base/hairback-035-base
+  rotate: false
+  xy: 3871, 275
+  size: 148, 151
+  orig: 180, 168
+  offset: 16, 11
+  index: -1
+hairback/hairback-base/hairback-036-base
+  rotate: false
+  xy: 1819, 1568
+  size: 236, 316
+  orig: 240, 324
+  offset: 2, 4
+  index: -1
+hairback/hairback-base/hairback-037-base
+  rotate: false
+  xy: 2824, 1098
+  size: 214, 131
+  orig: 220, 136
+  offset: 3, 3
+  index: -1
+hairback/hairback-base/hairback-038-base
+  rotate: false
+  xy: 1836, 1014
+  size: 234, 261
+  orig: 240, 268
+  offset: 3, 4
+  index: -1
+hairback/hairback-base/hairback-039-base
+  rotate: false
+  xy: 1067, 1552
+  size: 270, 329
+  orig: 280, 336
+  offset: 5, 4
+  index: -1
+hairback/hairback-base/hairback-040-base
+  rotate: true
+  xy: 3987, 1568
+  size: 148, 62
+  orig: 156, 68
+  offset: 4, 3
+  index: -1
+hairback/hairback-base/hairback-041-base
+  rotate: true
+  xy: 3879, 894
+  size: 106, 88
+  orig: 112, 96
+  offset: 3, 4
+  index: -1
+hairback/hairback-base/hairback-042-base
+  rotate: false
+  xy: 2, 278
+  size: 176, 380
+  orig: 184, 388
+  offset: 4, 4
+  index: -1
+hairback/hairback-base/hairback-043-base
+  rotate: true
+  xy: 2158, 359
+  size: 88, 103
+  orig: 96, 112
+  offset: 4, 5
+  index: -1
+hairback/hairback-base/hairback-044-base
+  rotate: false
+  xy: 3865, 171
+  size: 126, 49
+  orig: 132, 60
+  offset: 3, 6
+  index: -1
+hairback/hairback-base/hairback-045-base
+  rotate: true
+  xy: 3035, 278
+  size: 186, 173
+  orig: 196, 180
+  offset: 5, 4
+  index: -1
+hairback/hairback-base/hairback-046-base
+  rotate: false
+  xy: 1902, 179
+  size: 198, 171
+  orig: 204, 180
+  offset: 3, 5
+  index: -1
+hairback/hairback-base/hairback-047-base
+  rotate: false
+  xy: 2102, 171
+  size: 196, 179
+  orig: 204, 188
+  offset: 4, 5
+  index: -1
+hairback/hairback-base/hairback-048-base
+  rotate: true
+  xy: 676, 16
+  size: 148, 259
+  orig: 200, 280
+  offset: 26, 4
+  index: -1
+hairback/hairback-base/hairback-049-base
+  rotate: false
+  xy: 3032, 1328
+  size: 180, 220
+  orig: 188, 228
+  offset: 4, 4
+  index: -1
+hairback/hairback-base/hairback-050-base
+  rotate: false
+  xy: 3200, 693
+  size: 190, 209
+  orig: 196, 216
+  offset: 3, 4
+  index: -1
+hairback/hairback-line/hairback-001-line
+  rotate: false
+  xy: 950, 454
+  size: 254, 282
+  orig: 256, 288
+  offset: 1, 3
+  index: -1
+hairback/hairback-line/hairback-002-line
+  rotate: false
+  xy: 3540, 762
+  size: 147, 155
+  orig: 152, 160
+  offset: 2, 2
+  index: -1
+hairback/hairback-line/hairback-003-line
+  rotate: false
+  xy: 2, 1881
+  size: 310, 416
+  orig: 316, 420
+  offset: 3, 2
+  index: -1
+hairback/hairback-line/hairback-004-line
+  rotate: false
+  xy: 2300, 252
+  size: 190, 175
+  orig: 192, 180
+  offset: 1, 2
+  index: -1
+hairback/hairback-line/hairback-005-line
+  rotate: true
+  xy: 2655, 854
+  size: 214, 178
+  orig: 216, 184
+  offset: 1, 3
+  index: -1
+hairback/hairback-line/hairback-006-line
+  rotate: false
+  xy: 776, 1003
+  size: 254, 285
+  orig: 256, 292
+  offset: 1, 4
+  index: -1
+hairback/hairback-line/hairback-007-line
+  rotate: false
+  xy: 1940, 352
+  size: 216, 162
+  orig: 220, 168
+  offset: 2, 3
+  index: -1
+hairback/hairback-line/hairback-008-line
+  rotate: true
+  xy: 3689, 738
+  size: 154, 155
+  orig: 160, 160
+  offset: 3, 2
+  index: -1
+hairback/hairback-line/hairback-009-line
+  rotate: false
+  xy: 3217, 1553
+  size: 332, 357
+  orig: 336, 360
+  offset: 2, 2
+  index: -1
+hairback/hairback-line/hairback-010-line
+  rotate: false
+  xy: 2350, 1380
+  size: 228, 245
+  orig: 232, 252
+  offset: 2, 3
+  index: -1
+hairback/hairback-line/hairback-011-line
+  rotate: false
+  xy: 2684, 31
+  size: 174, 188
+  orig: 180, 196
+  offset: 3, 4
+  index: -1
+hairback/hairback-line/hairback-012-line
+  rotate: false
+  xy: 184, 680
+  size: 296, 364
+  orig: 304, 372
+  offset: 4, 4
+  index: -1
+hairback/hairback-line/hairback-013-line
+  rotate: false
+  xy: 2284, 429
+  size: 228, 166
+  orig: 232, 172
+  offset: 2, 3
+  index: -1
+hairback/hairback-line/hairback-014-line
+  rotate: true
+  xy: 3452, 578
+  size: 168, 158
+  orig: 172, 164
+  offset: 2, 3
+  index: -1
+hairback/hairback-line/hairback-015-line
+  rotate: true
+  xy: 2, 58
+  size: 218, 338
+  orig: 224, 344
+  offset: 3, 4
+  index: -1
+hairback/hairback-line/hairback-016-line
+  rotate: true
+  xy: 2515, 547
+  size: 216, 161
+  orig: 220, 168
+  offset: 2, 4
+  index: -1
+hairback/hairback-line/hairback-017-line
+  rotate: true
+  xy: 1940, 516
+  size: 246, 217
+  orig: 252, 220
+  offset: 3, 2
+  index: -1
+hairback/hairback-line/hairback-018-line
+  rotate: true
+  xy: 342, 53
+  size: 252, 332
+  orig: 256, 336
+  offset: 2, 3
+  index: -1
+hairback/hairback-line/hairback-019-line
+  rotate: true
+  xy: 3384, 305
+  size: 184, 173
+  orig: 192, 176
+  offset: 4, 1
+  index: -1
+hairback/hairback-line/hairback-020-line
+  rotate: false
+  xy: 2106, 1038
+  size: 254, 268
+  orig: 260, 272
+  offset: 3, 2
+  index: -1
+hairback/hairback-line/hairback-021-line
+  rotate: false
+  xy: 314, 1882
+  size: 229, 415
+  orig: 236, 420
+  offset: 4, 3
+  index: -1
+hairback/hairback-line/hairback-022-line
+  rotate: false
+  xy: 3392, 748
+  size: 146, 169
+  orig: 152, 172
+  offset: 3, 1
+  index: -1
+hairback/hairback-line/hairback-023-line
+  rotate: false
+  xy: 2521, 1910
+  size: 294, 387
+  orig: 300, 392
+  offset: 3, 3
+  index: -1
+hairback/hairback-line/hairback-024-line
+  rotate: true
+  xy: 3040, 1116
+  size: 210, 161
+  orig: 216, 164
+  offset: 3, 2
+  index: -1
+hairback/hairback-line/hairback-025-line
+  rotate: false
+  xy: 1381, 1886
+  size: 292, 411
+  orig: 316, 420
+  offset: 12, 6
+  index: -1
+hairback/hairback-line/hairback-026-line
+  rotate: true
+  xy: 2732, 437
+  size: 200, 178
+  orig: 268, 192
+  offset: 34, 1
+  index: -1
+hairback/hairback-line/hairback-027-line
+  rotate: false
+  xy: 3551, 1555
+  size: 164, 357
+  orig: 224, 376
+  offset: 27, 7
+  index: -1
+hairback/hairback-line/hairback-028-line
+  rotate: false
+  xy: 1607, 1277
+  size: 242, 286
+  orig: 248, 292
+  offset: 3, 3
+  index: -1
+hairback/hairback-line/hairback-029-line
+  rotate: true
+  xy: 3761, 582
+  size: 154, 95
+  orig: 156, 100
+  offset: 1, 3
+  index: -1
+hairback/hairback-line/hairback-030-line
+  rotate: false
+  xy: 3815, 1922
+  size: 218, 375
+  orig: 224, 380
+  offset: 3, 4
+  index: -1
+hairback/hairback-line/hairback-031-line
+  rotate: false
+  xy: 1119, 1885
+  size: 260, 412
+  orig: 264, 416
+  offset: 2, 2
+  index: -1
+hairback/hairback-line/hairback-032-line
+  rotate: true
+  xy: 817, 1290
+  size: 260, 288
+  orig: 264, 292
+  offset: 2, 3
+  index: -1
+hairback/hairback-line/hairback-033-line
+  rotate: true
+  xy: 950, 222
+  size: 230, 274
+  orig: 256, 288
+  offset: 13, 6
+  index: -1
+hairback/hairback-line/hairback-034-line
+  rotate: false
+  xy: 1458, 185
+  size: 220, 270
+  orig: 256, 288
+  offset: 18, 11
+  index: -1
+hairback/hairback-line/hairback-035-line
+  rotate: false
+  xy: 3846, 738
+  size: 150, 154
+  orig: 180, 168
+  offset: 15, 9
+  index: -1
+hairback/hairback-line/hairback-036-line
+  rotate: false
+  xy: 1579, 1565
+  size: 238, 319
+  orig: 240, 324
+  offset: 1, 2
+  index: -1
+hairback/hairback-line/hairback-037-line
+  rotate: false
+  xy: 2514, 412
+  size: 216, 133
+  orig: 220, 136
+  offset: 2, 2
+  index: -1
+hairback/hairback-line/hairback-038-line
+  rotate: false
+  xy: 1460, 481
+  size: 238, 264
+  orig: 240, 268
+  offset: 1, 2
+  index: -1
+hairback/hairback-line/hairback-039-line
+  rotate: true
+  xy: 3217, 1279
+  size: 272, 332
+  orig: 280, 336
+  offset: 4, 3
+  index: -1
+hairback/hairback-line/hairback-040-line
+  rotate: false
+  xy: 2288, 9
+  size: 150, 65
+  orig: 156, 68
+  offset: 3, 2
+  index: -1
+hairback/hairback-line/hairback-041-line
+  rotate: false
+  xy: 3778, 54
+  size: 108, 90
+  orig: 112, 96
+  offset: 2, 3
+  index: -1
+hairback/hairback-line/hairback-042-line
+  rotate: false
+  xy: 3413, 1914
+  size: 178, 383
+  orig: 184, 388
+  offset: 3, 3
+  index: -1
+hairback/hairback-line/hairback-043-line
+  rotate: true
+  xy: 2159, 449
+  size: 90, 105
+  orig: 96, 112
+  offset: 3, 4
+  index: -1
+hairback/hairback-line/hairback-044-line
+  rotate: false
+  xy: 2440, 2
+  size: 128, 52
+  orig: 132, 60
+  offset: 2, 5
+  index: -1
+hairback/hairback-line/hairback-045-line
+  rotate: false
+  xy: 2492, 234
+  size: 190, 176
+  orig: 196, 180
+  offset: 3, 2
+  index: -1
+hairback/hairback-line/hairback-046-line
+  rotate: true
+  xy: 2912, 466
+  size: 200, 174
+  orig: 204, 180
+  offset: 2, 3
+  index: -1
+hairback/hairback-line/hairback-047-line
+  rotate: true
+  xy: 3088, 470
+  size: 200, 182
+  orig: 204, 188
+  offset: 2, 4
+  index: -1
+hairback/hairback-line/hairback-048-line
+  rotate: false
+  xy: 3551, 1291
+  size: 150, 262
+  orig: 200, 280
+  offset: 25, 2
+  index: -1
+hairback/hairback-line/hairback-049-line
+  rotate: true
+  xy: 2580, 1395
+  size: 182, 224
+  orig: 188, 228
+  offset: 3, 2
+  index: -1
+hairback/hairback-line/hairback-050-line
+  rotate: false
+  xy: 2999, 884
+  size: 192, 212
+  orig: 196, 216
+  offset: 2, 2
+  index: -1
+hairback/hairback/hairback-001
+  rotate: true
+  xy: 776, 745
+  size: 256, 285
+  orig: 256, 288
+  offset: 0, 1
+  index: -1
+hairback/hairback/hairback-002
+  rotate: false
+  xy: 3612, 581
+  size: 147, 155
+  orig: 152, 160
+  offset: 2, 2
+  index: -1
+hairback/hairback/hairback-003
+  rotate: false
+  xy: 2, 1463
+  size: 310, 416
+  orig: 316, 420
+  offset: 3, 2
+  index: -1
+hairback/hairback/hairback-004
+  rotate: true
+  xy: 2684, 221
+  size: 189, 174
+  orig: 192, 180
+  offset: 1, 3
+  index: -1
+hairback/hairback/hairback-005
+  rotate: true
+  xy: 2678, 639
+  size: 213, 180
+  orig: 216, 184
+  offset: 1, 2
+  index: -1
+hairback/hairback/hairback-006
+  rotate: false
+  xy: 1851, 1280
+  size: 253, 286
+  orig: 256, 292
+  offset: 1, 3
+  index: -1
+hairback/hairback/hairback-007
+  rotate: true
+  xy: 2835, 882
+  size: 214, 162
+  orig: 220, 168
+  offset: 3, 3
+  index: -1
+hairback/hairback/hairback-008
+  rotate: false
+  xy: 3561, 921
+  size: 158, 160
+  orig: 160, 160
+  offset: 2, 0
+  index: -1
+hairback/hairback/hairback-009
+  rotate: false
+  xy: 2882, 1550
+  size: 333, 358
+  orig: 336, 360
+  offset: 1, 2
+  index: -1
+hairback/hairback/hairback-010
+  rotate: false
+  xy: 2108, 789
+  size: 229, 247
+  orig: 232, 252
+  offset: 1, 3
+  index: -1
+hairback/hairback/hairback-011
+  rotate: true
+  xy: 2300, 76
+  size: 174, 190
+  orig: 180, 196
+  offset: 3, 3
+  index: -1
+hairback/hairback/hairback-012
+  rotate: false
+  xy: 452, 1100
+  size: 297, 366
+  orig: 304, 372
+  offset: 4, 3
+  index: -1
+hairback/hairback/hairback-013
+  rotate: false
+  xy: 2284, 597
+  size: 229, 166
+  orig: 232, 172
+  offset: 1, 3
+  index: -1
+hairback/hairback/hairback-014
+  rotate: true
+  xy: 3352, 112
+  size: 168, 158
+  orig: 172, 164
+  offset: 2, 3
+  index: -1
+hairback/hairback/hairback-015
+  rotate: false
+  xy: 512, 396
+  size: 218, 339
+  orig: 224, 344
+  offset: 3, 3
+  index: -1
+hairback/hairback/hairback-016
+  rotate: false
+  xy: 2580, 1231
+  size: 216, 162
+  orig: 220, 168
+  offset: 2, 3
+  index: -1
+hairback/hairback/hairback-017
+  rotate: true
+  xy: 1889, 764
+  size: 248, 217
+  orig: 252, 220
+  offset: 2, 2
+  index: -1
+hairback/hairback/hairback-018
+  rotate: true
+  xy: 3717, 1310
+  size: 252, 333
+  orig: 256, 336
+  offset: 2, 2
+  index: -1
+hairback/hairback/hairback-019
+  rotate: true
+  xy: 3210, 282
+  size: 186, 172
+  orig: 192, 176
+  offset: 3, 2
+  index: -1
+hairback/hairback/hairback-020
+  rotate: true
+  xy: 1347, 1016
+  size: 257, 268
+  orig: 260, 272
+  offset: 0, 2
+  index: -1
+hairback/hairback/hairback-021
+  rotate: false
+  xy: 2, 1046
+  size: 230, 415
+  orig: 236, 420
+  offset: 3, 3
+  index: -1
+hairback/hairback/hairback-022
+  rotate: true
+  xy: 3387, 919
+  size: 148, 170
+  orig: 152, 172
+  offset: 2, 2
+  index: -1
+hairback/hairback/hairback-023
+  rotate: false
+  xy: 2817, 1910
+  size: 300, 387
+  orig: 300, 392
+  offset: 0, 3
+  index: -1
+hairback/hairback/hairback-024
+  rotate: false
+  xy: 3203, 1116
+  size: 210, 161
+  orig: 216, 164
+  offset: 3, 2
+  index: -1
+hairback/hairback/hairback-025
+  rotate: false
+  xy: 1675, 1886
+  size: 292, 411
+  orig: 316, 420
+  offset: 12, 7
+  index: -1
+hairback/hairback/hairback-026
+  rotate: true
+  xy: 3272, 491
+  size: 200, 178
+  orig: 268, 192
+  offset: 34, 1
+  index: -1
+hairback/hairback/hairback-027
+  rotate: true
+  xy: 2521, 1744
+  size: 164, 359
+  orig: 224, 376
+  offset: 28, 6
+  index: -1
+hairback/hairback/hairback-028
+  rotate: false
+  xy: 2106, 1308
+  size: 242, 286
+  orig: 248, 292
+  offset: 3, 3
+  index: -1
+hairback/hairback/hairback-029
+  rotate: true
+  xy: 3915, 428
+  size: 152, 97
+  orig: 156, 100
+  offset: 2, 2
+  index: -1
+hairback/hairback/hairback-030
+  rotate: false
+  xy: 3593, 1920
+  size: 220, 377
+  orig: 224, 380
+  offset: 2, 2
+  index: -1
+hairback/hairback/hairback-031
+  rotate: false
+  xy: 855, 1883
+  size: 262, 414
+  orig: 264, 416
+  offset: 1, 1
+  index: -1
+hairback/hairback/hairback-032
+  rotate: false
+  xy: 2057, 1596
+  size: 260, 289
+  orig: 264, 292
+  offset: 2, 2
+  index: -1
+hairback/hairback/hairback-033
+  rotate: false
+  xy: 1226, 181
+  size: 230, 274
+  orig: 256, 288
+  offset: 13, 6
+  index: -1
+hairback/hairback/hairback-034
+  rotate: false
+  xy: 1317, 747
+  size: 222, 267
+  orig: 256, 288
+  offset: 17, 13
+  index: -1
+hairback/hairback/hairback-035
+  rotate: false
+  xy: 3858, 582
+  size: 150, 154
+  orig: 180, 168
+  offset: 15, 9
+  index: -1
+hairback/hairback/hairback-036
+  rotate: false
+  xy: 1339, 1563
+  size: 238, 320
+  orig: 240, 324
+  offset: 1, 2
+  index: -1
+hairback/hairback/hairback-037
+  rotate: false
+  xy: 2798, 1231
+  size: 216, 133
+  orig: 220, 136
+  offset: 2, 2
+  index: -1
+hairback/hairback/hairback-038
+  rotate: false
+  xy: 1700, 489
+  size: 238, 263
+  orig: 240, 268
+  offset: 1, 3
+  index: -1
+hairback/hairback/hairback-039
+  rotate: false
+  xy: 543, 1548
+  size: 272, 332
+  orig: 280, 336
+  offset: 4, 2
+  index: -1
+hairback/hairback/hairback-040
+  rotate: false
+  xy: 3204, 31
+  size: 152, 65
+  orig: 156, 68
+  offset: 2, 2
+  index: -1
+hairback/hairback/hairback-041
+  rotate: true
+  xy: 3888, 61
+  size: 108, 90
+  orig: 112, 96
+  offset: 2, 3
+  index: -1
+hairback/hairback/hairback-042
+  rotate: false
+  xy: 2, 660
+  size: 180, 384
+  orig: 184, 388
+  offset: 2, 2
+  index: -1
+hairback/hairback/hairback-043
+  rotate: false
+  xy: 3927, 1002
+  size: 90, 106
+  orig: 96, 112
+  offset: 3, 3
+  index: -1
+hairback/hairback/hairback-044
+  rotate: false
+  xy: 3865, 222
+  size: 128, 51
+  orig: 132, 60
+  offset: 2, 5
+  index: -1
+hairback/hairback/hairback-045
+  rotate: false
+  xy: 2492, 56
+  size: 190, 176
+  orig: 196, 180
+  offset: 3, 2
+  index: -1
+hairback/hairback/hairback-046
+  rotate: false
+  xy: 1188, 4
+  size: 200, 175
+  orig: 204, 180
+  offset: 2, 3
+  index: -1
+hairback/hairback/hairback-047
+  rotate: false
+  xy: 1700, 305
+  size: 200, 182
+  orig: 204, 188
+  offset: 2, 3
+  index: -1
+hairback/hairback/hairback-048
+  rotate: false
+  xy: 2319, 1627
+  size: 150, 260
+  orig: 200, 280
+  offset: 25, 3
+  index: -1
+hairback/hairback/hairback-049
+  rotate: true
+  xy: 2806, 1366
+  size: 182, 224
+  orig: 188, 228
+  offset: 3, 2
+  index: -1
+hairback/hairback/hairback-050
+  rotate: false
+  xy: 3193, 904
+  size: 192, 210
+  orig: 196, 216
+  offset: 2, 3
+  index: -1
+hairside/hairside-base/hairside-001-base
+  rotate: true
+  xy: 937, 22
+  size: 107, 220
+  orig: 120, 224
+  offset: 4, 1
+  index: -1
+hairside/hairside-base/hairside-002-base
+  rotate: true
+  xy: 2583, 771
+  size: 220, 70
+  orig: 240, 80
+  offset: 10, 5
+  index: -1
+hairside/hairside-base/hairside-003-base
+  rotate: false
+  xy: 3452, 531
+  size: 166, 45
+  orig: 176, 60
+  offset: 5, 7
+  index: -1
+hairside/hairside-base/hairside-004-base
+  rotate: false
+  xy: 2570, 2
+  size: 66, 52
+  orig: 80, 80
+  offset: 7, 18
+  index: -1
+hairside/hairside-base/hairside-005-base
+  rotate: true
+  xy: 3219, 98
+  size: 182, 131
+  orig: 192, 140
+  offset: 5, 5
+  index: -1
+hairside/hairside-base/hairside-006-base
+  rotate: false
+  xy: 1458, 2
+  size: 238, 181
+  orig: 248, 200
+  offset: 5, 5
+  index: -1
+hairside/hairside-base/hairside-007-base
+  rotate: true
+  xy: 3881, 1598
+  size: 322, 104
+  orig: 328, 124
+  offset: 3, 3
+  index: -1
+hairside/hairside-base/hairside-008-base
+  rotate: true
+  xy: 1808, 754
+  size: 252, 79
+  orig: 260, 148
+  offset: 4, 64
+  index: -1
+hairside/hairside-base/hairside-009-base
+  rotate: false
+  xy: 2098, 32
+  size: 188, 70
+  orig: 192, 88
+  offset: 2, 12
+  index: -1
+hairside/hairside-base/hairside-010-base
+  rotate: true
+  xy: 3927, 1110
+  size: 198, 61
+  orig: 204, 68
+  offset: 3, 4
+  index: -1
+hairside/hairside-base/hairside-011-base
+  rotate: false
+  xy: 3969, 923
+  size: 54, 77
+  orig: 108, 116
+  offset: 51, 5
+  index: -1
+hairside/hairside-base/hairside-012-base
+  rotate: false
+  xy: 950, 131
+  size: 236, 89
+  orig: 244, 96
+  offset: 4, 4
+  index: -1
+hairside/hairside-base/hairside-013-base
+  rotate: true
+  xy: 2159, 541
+  size: 246, 123
+  orig: 252, 132
+  offset: 3, 5
+  index: -1
+hairside/hairside-base/hairside-014-base
+  rotate: true
+  xy: 3415, 1069
+  size: 208, 144
+  orig: 220, 172
+  offset: 6, 3
+  index: -1
+hairside/hairside-base/hairside-015-base
+  rotate: false
+  xy: 1107, 1263
+  size: 238, 287
+  orig: 244, 296
+  offset: 3, 5
+  index: -1
+hairside/hairside-base/hairside-016-base
+  rotate: false
+  xy: 2362, 993
+  size: 244, 139
+  orig: 252, 144
+  offset: 4, 2
+  index: -1
+hairside/hairside-base/hairside-017-base
+  rotate: false
+  xy: 3577, 2
+  size: 63, 56
+  orig: 68, 64
+  offset: 3, 4
+  index: -1
+hairside/hairside-base/hairside-018-base
+  rotate: true
+  xy: 1902, 446
+  size: 41, 36
+  orig: 60, 60
+  offset: 9, 12
+  index: -1
+hairside/hairside-base/hairside-019-base
+  rotate: false
+  xy: 226, 2
+  size: 166, 49
+  orig: 172, 60
+  offset: 3, 6
+  index: -1
+hairside/hairside-base/hairside-020-base
+  rotate: true
+  xy: 3034, 13
+  size: 91, 168
+  orig: 100, 180
+  offset: 4, 6
+  index: -1
+hairside/hairside-base/hairside-021-base
+  rotate: true
+  xy: 543, 1479
+  size: 67, 256
+  orig: 76, 264
+  offset: 4, 4
+  index: -1
+hairside/hairside-base/hairside-022-base
+  rotate: false
+  xy: 3998, 856
+  size: 52, 65
+  orig: 60, 72
+  offset: 4, 4
+  index: -1
+hairside/hairside-base/hairside-023-base
+  rotate: false
+  xy: 3998, 792
+  size: 51, 62
+  orig: 60, 68
+  offset: 4, 3
+  index: -1
+hairside/hairside-base/hairside-024-base
+  rotate: true
+  xy: 558, 5
+  size: 46, 80
+  orig: 60, 84
+  offset: 8, 2
+  index: -1
+hairside/hairside-base/hairside-025-base
+  rotate: false
+  xy: 2471, 1632
+  size: 107, 79
+  orig: 112, 84
+  offset: 2, 3
+  index: -1
+hairside/hairside-base/hairside-026-base
+  rotate: true
+  xy: 751, 1293
+  size: 184, 64
+  orig: 192, 72
+  offset: 4, 4
+  index: -1
+hairside/hairside-base/hairside-027-base
+  rotate: true
+  xy: 2860, 653
+  size: 13, 50
+  orig: 60, 60
+  offset: 23, 5
+  index: -1
+hairside/hairside-base/hairside-028-base
+  rotate: false
+  xy: 512, 309
+  size: 144, 42
+  orig: 156, 60
+  offset: 6, 9
+  index: -1
+hairside/hairside-base/hairside-029-base
+  rotate: false
+  xy: 3721, 894
+  size: 156, 106
+  orig: 180, 120
+  offset: 12, 5
+  index: -1
+hairside/hairside-base/hairside-030-base
+  rotate: false
+  xy: 1698, 43
+  size: 192, 83
+  orig: 200, 100
+  offset: 4, 9
+  index: -1
+hairside/hairside-base/hairside-031-base
+  rotate: true
+  xy: 1390, 5
+  size: 174, 63
+  orig: 180, 80
+  offset: 3, 11
+  index: -1
+hairside/hairside-base/hairside-032-base
+  rotate: false
+  xy: 3559, 318
+  size: 138, 45
+  orig: 148, 60
+  offset: 5, 6
+  index: -1
+hairside/hairside-base/hairside-033-base
+  rotate: true
+  xy: 3804, 146
+  size: 134, 59
+  orig: 140, 64
+  offset: 3, 2
+  index: -1
+hairside/hairside-base/hairside-034-base
+  rotate: false
+  xy: 3658, 153
+  size: 144, 127
+  orig: 152, 136
+  offset: 4, 5
+  index: -1
+hairside/hairside-base/hairside-035-base
+  rotate: false
+  xy: 2098, 104
+  size: 192, 65
+  orig: 200, 76
+  offset: 4, 4
+  index: -1
+hairside/hairside-base/hairside-036-base
+  rotate: false
+  xy: 2, 6
+  size: 222, 50
+  orig: 232, 60
+  offset: 5, 6
+  index: -1
+hairside/hairside-base/hairside-037-base
+  rotate: true
+  xy: 3987, 1718
+  size: 202, 63
+  orig: 212, 76
+  offset: 5, 7
+  index: -1
+hairside/hairside-base/hairside-038-base
+  rotate: false
+  xy: 512, 353
+  size: 160, 41
+  orig: 172, 60
+  offset: 6, 9
+  index: -1
+hairside/hairside-base/hairside-039-base
+  rotate: false
+  xy: 1898, 6
+  size: 198, 171
+  orig: 212, 184
+  offset: 7, 6
+  index: -1
+hairside/hairside-base/hairside-040-base
+  rotate: false
+  xy: 234, 1050
+  size: 204, 37
+  orig: 216, 60
+  offset: 6, 11
+  index: -1
+hairside/hairside-base/hairside-041-base
+  rotate: false
+  xy: 3512, 60
+  size: 150, 75
+  orig: 160, 84
+  offset: 5, 5
+  index: -1
+hairside/hairside-base/hairside-042-base
+  rotate: false
+  xy: 394, 2
+  size: 162, 49
+  orig: 172, 60
+  offset: 5, 4
+  index: -1
+hairside/hairside-base/hairside-043-base
+  rotate: false
+  xy: 3620, 536
+  size: 132, 43
+  orig: 140, 60
+  offset: 4, 9
+  index: -1
+hairside/hairside-base/hairside-044-base
+  rotate: true
+  xy: 3664, 66
+  size: 85, 112
+  orig: 92, 120
+  offset: 3, 4
+  index: -1
+hairside/hairside-base/hairside-045-base
+  rotate: false
+  xy: 3721, 1002
+  size: 158, 52
+  orig: 164, 60
+  offset: 3, 4
+  index: -1
+hairside/hairside-base/hairside-046-base
+  rotate: false
+  xy: 3721, 1222
+  size: 204, 86
+  orig: 212, 92
+  offset: 4, 3
+  index: -1
+hairside/hairside-base/hairside-047-base
+  rotate: false
+  xy: 2860, 5
+  size: 58, 54
+  orig: 68, 64
+  offset: 5, 5
+  index: -1
+hairside/hairside-base/hairside-048-base
+  rotate: false
+  xy: 3721, 1056
+  size: 204, 164
+  orig: 212, 176
+  offset: 4, 6
+  index: -1
+hairside/hairside-base/hairside-049-base
+  rotate: true
+  xy: 3990, 1114
+  size: 194, 56
+  orig: 204, 64
+  offset: 5, 4
+  index: -1
+hairside/hairside-base/hairside-050-base
+  rotate: false
+  xy: 3510, 4
+  size: 65, 54
+  orig: 72, 64
+  offset: 3, 5
+  index: -1

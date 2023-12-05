@@ -1,0 +1,68 @@
+CCEffect %{
+  name: maskItem1,
+  techniques: 
+  - name: maskItem1
+    passes: 
+    - vert: maskItem-vs:vert
+      frag: maskItem-fs:frag
+      depthStencilState: 
+        depthTest: false
+        depthWrite: false
+      blendState: 
+        targets: 
+          - blend: true
+            blendSrc: src_alpha
+            blendDst: one_minus_src_alpha
+            lendDstAlpha: one_minus_src_alpha
+      rasterizerState: 
+        ullMode: none
+      properties:
+        u_text: {value: "white"}
+        solutions: {value: [119., 119.]}
+      
+}%
+CCProgram maskItem-vs %{
+  precision highp float;
+  #include <builtin/uniforms/cc-global>
+  in vec3 a_position;
+  in vec2 a_texCoord;
+  in vec4 a_color;
+  out vec4 color;
+  out vec2 uv0;
+
+ vec4 vert () {
+    vec4 pos = vec4(a_position, 1);
+    pos = cc_matViewProj * pos;
+    uv0 = a_texCoord;
+    color = a_color;
+    
+    return pos;
+  }
+}%
+
+CCProgram maskItem-fs %{
+precision highp float;
+  in vec2 uv0;
+  in vec4 color;
+  #pragma builtin(local)
+  uniform sampler2D cc_spriteTexture;
+
+  uniform sampler2D u_text;
+  uniform Contast {
+    vec2 u_start;
+    vec2 u_end;
+    vec2 solutions;
+  };
+vec4 frag () {
+    vec4 col = texture(u_text, uv0);
+    vec4 mainColor = texture(cc_spriteTexture, uv0);
+    vec2 center = vec2(0.5) * solutions;
+    float kcach = length(uv0 * solutions - center);
+    float r = solutions.x / 2.;
+    float alpha = step(kcach, r);
+    vec4 x = mix(mainColor, col, 1.);
+
+    x.a = alpha;
+    return x;
+  }
+}%

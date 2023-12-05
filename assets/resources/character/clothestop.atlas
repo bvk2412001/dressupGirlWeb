@@ -1,0 +1,363 @@
+
+clothestop.png
+size: 774,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blank
+  rotate: false
+  xy: 607, 863
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+clothestop/clothestop-001
+  rotate: false
+  xy: 464, 2
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+clothestop/clothestop-002
+  rotate: false
+  xy: 172, 343
+  size: 86, 120
+  orig: 88, 120
+  offset: 1, 0
+  index: -1
+clothestop/clothestop-003
+  rotate: false
+  xy: 631, 391
+  size: 81, 91
+  orig: 84, 92
+  offset: 2, 1
+  index: -1
+clothestop/clothestop-004
+  rotate: false
+  xy: 575, 599
+  size: 91, 119
+  orig: 96, 124
+  offset: 3, 2
+  index: -1
+clothestop/clothestop-005
+  rotate: false
+  xy: 548, 484
+  size: 84, 108
+  orig: 120, 120
+  offset: 18, 5
+  index: -1
+clothestop/clothestop-006
+  rotate: false
+  xy: 2, 157
+  size: 146, 159
+  orig: 160, 200
+  offset: 7, 23
+  index: -1
+clothestop/clothestop-007
+  rotate: false
+  xy: 387, 116
+  size: 91, 114
+  orig: 92, 116
+  offset: 1, 2
+  index: -1
+clothestop/clothestop-008
+  rotate: true
+  xy: 313, 469
+  size: 98, 118
+  orig: 120, 140
+  offset: 11, 12
+  index: -1
+clothestop/clothestop-009
+  rotate: false
+  xy: 579, 190
+  size: 82, 94
+  orig: 84, 96
+  offset: 0, 2
+  index: -1
+clothestop/clothestop-010
+  rotate: false
+  xy: 478, 720
+  size: 134, 141
+  orig: 160, 160
+  offset: 13, 10
+  index: -1
+clothestop/clothestop-011
+  rotate: true
+  xy: 554, 6
+  size: 88, 93
+  orig: 88, 96
+  offset: 0, 1
+  index: -1
+clothestop/clothestop-012
+  rotate: false
+  xy: 2, 741
+  size: 190, 280
+  orig: 192, 280
+  offset: 2, 0
+  index: -1
+clothestop/clothestop-013
+  rotate: false
+  xy: 194, 829
+  size: 138, 192
+  orig: 160, 200
+  offset: 11, 4
+  index: -1
+clothestop/clothestop-014
+  rotate: false
+  xy: 663, 223
+  size: 78, 80
+  orig: 80, 84
+  offset: 2, 2
+  index: -1
+clothestop/clothestop-015
+  rotate: false
+  xy: 572, 286
+  size: 84, 96
+  orig: 88, 96
+  offset: 2, 0
+  index: -1
+clothestop/clothestop-016
+  rotate: true
+  xy: 433, 483
+  size: 94, 113
+  orig: 120, 120
+  offset: 14, 3
+  index: -1
+clothestop/clothestop-017
+  rotate: false
+  xy: 283, 569
+  size: 102, 132
+  orig: 104, 136
+  offset: 2, 2
+  index: -1
+clothestop/clothestop-018
+  rotate: true
+  xy: 551, 384
+  size: 98, 78
+  orig: 100, 80
+  offset: 1, 0
+  index: -1
+clothestop/clothestop-019
+  rotate: false
+  xy: 607, 866
+  size: 132, 155
+  orig: 136, 156
+  offset: 2, 1
+  index: -1
+clothestop/clothestop-020
+  rotate: false
+  xy: 2, 5
+  size: 134, 150
+  orig: 160, 160
+  offset: 12, 4
+  index: -1
+clothestop/clothestop-021
+  rotate: false
+  xy: 353, 349
+  size: 108, 118
+  orig: 112, 120
+  offset: 2, 1
+  index: -1
+clothestop/clothestop-022
+  rotate: true
+  xy: 675, 147
+  size: 74, 71
+  orig: 80, 80
+  offset: 3, 5
+  index: -1
+clothestop/clothestop-023
+  rotate: false
+  xy: 260, 343
+  size: 91, 120
+  orig: 96, 124
+  offset: 2, 2
+  index: -1
+clothestop/clothestop-024
+  rotate: true
+  xy: 668, 511
+  size: 90, 104
+  orig: 96, 108
+  offset: 3, 2
+  index: -1
+clothestop/clothestop-025
+  rotate: false
+  xy: 482, 163
+  size: 95, 92
+  orig: 100, 96
+  offset: 2, 2
+  index: -1
+clothestop/clothestop-026
+  rotate: false
+  xy: 334, 858
+  size: 125, 163
+  orig: 128, 164
+  offset: 2, 1
+  index: -1
+clothestop/clothestop-027
+  rotate: false
+  xy: 483, 594
+  size: 90, 124
+  orig: 96, 128
+  offset: 3, 2
+  index: -1
+clothestop/clothestop-028
+  rotate: true
+  xy: 187, 465
+  size: 90, 124
+  orig: 96, 128
+  offset: 3, 2
+  index: -1
+clothestop/clothestop-029
+  rotate: false
+  xy: 384, 232
+  size: 96, 115
+  orig: 100, 120
+  offset: 2, 3
+  index: -1
+clothestop/clothestop-030
+  rotate: false
+  xy: 482, 257
+  size: 88, 109
+  orig: 92, 112
+  offset: 2, 2
+  index: -1
+clothestop/clothestop-031
+  rotate: false
+  xy: 461, 863
+  size: 144, 158
+  orig: 148, 164
+  offset: 2, 3
+  index: -1
+clothestop/clothestop-032
+  rotate: true
+  xy: 194, 703
+  size: 124, 150
+  orig: 128, 156
+  offset: 2, 4
+  index: -1
+clothestop/clothestop-033
+  rotate: false
+  xy: 2, 318
+  size: 168, 153
+  orig: 172, 156
+  offset: 2, 2
+  index: -1
+clothestop/clothestop-034
+  rotate: false
+  xy: 2, 473
+  size: 183, 266
+  orig: 192, 280
+  offset: 4, 13
+  index: -1
+clothestop/clothestop-035
+  rotate: true
+  xy: 232, 40
+  size: 90, 114
+  orig: 96, 124
+  offset: 3, 5
+  index: -1
+clothestop/clothestop-036
+  rotate: true
+  xy: 172, 247
+  size: 94, 118
+  orig: 96, 124
+  offset: 1, 1
+  index: -1
+clothestop/clothestop-037
+  rotate: true
+  xy: 150, 157
+  size: 88, 118
+  orig: 96, 124
+  offset: 4, 3
+  index: -1
+clothestop/clothestop-038
+  rotate: false
+  xy: 138, 38
+  size: 92, 117
+  orig: 96, 124
+  offset: 2, 6
+  index: -1
+clothestop/clothestop-039
+  rotate: true
+  xy: 270, 132
+  size: 90, 115
+  orig: 96, 120
+  offset: 3, 3
+  index: -1
+clothestop/clothestop-040
+  rotate: false
+  xy: 463, 368
+  size: 86, 113
+  orig: 88, 116
+  offset: 1, 2
+  index: -1
+clothestop/clothestop-041
+  rotate: false
+  xy: 668, 603
+  size: 98, 119
+  orig: 100, 124
+  offset: 1, 3
+  index: -1
+clothestop/clothestop-042
+  rotate: false
+  xy: 387, 579
+  size: 94, 132
+  orig: 100, 136
+  offset: 3, 2
+  index: -1
+clothestop/clothestop-043
+  rotate: true
+  xy: 614, 724
+  size: 140, 134
+  orig: 144, 140
+  offset: 2, 3
+  index: -1
+clothestop/clothestop-044
+  rotate: false
+  xy: 292, 224
+  size: 90, 117
+  orig: 96, 120
+  offset: 3, 2
+  index: -1
+clothestop/clothestop-045
+  rotate: false
+  xy: 187, 557
+  size: 94, 144
+  orig: 96, 148
+  offset: 1, 2
+  index: -1
+clothestop/clothestop-046
+  rotate: false
+  xy: 579, 96
+  size: 94, 92
+  orig: 160, 160
+  offset: 38, 61
+  index: -1
+clothestop/clothestop-047
+  rotate: false
+  xy: 346, 713
+  size: 130, 143
+  orig: 160, 160
+  offset: 15, 3
+  index: -1
+clothestop/clothestop-048
+  rotate: true
+  xy: 348, 26
+  size: 88, 114
+  orig: 112, 120
+  offset: 12, 1
+  index: -1
+clothestop/clothestop-049
+  rotate: true
+  xy: 649, 14
+  size: 80, 93
+  orig: 88, 96
+  offset: 4, 2
+  index: -1
+clothestop/clothestop-050
+  rotate: true
+  xy: 658, 305
+  size: 84, 77
+  orig: 88, 96
+  offset: 2, 16
+  index: -1
